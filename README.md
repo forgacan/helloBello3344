@@ -1,7 +1,7 @@
 # helloBello3344
 test
 
-​```mermaid
+```mermaid
 %% Example with slection of syntaxes
         gantt
         dateFormat  YYYY-MM-DD
@@ -30,7 +30,7 @@ test
         Describe gantt syntax               :after doc1, 3d
         Add gantt diagram to demo page      : 20h
         Add another diagram to demo page    : 48h
-​```
+```
 
 ```mermaid
 gantt
