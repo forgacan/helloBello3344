@@ -14,3 +14,14 @@ Future task               :         des3, after des2, 5d
 Future task2               :         des4, after des3, 5d
 
 ```
+
+```flow
+st=>start: Start
+op=>operation: Your Operation
+cond=>condition: Yes or No?
+e=>end
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+​```
